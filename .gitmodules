@@ -1,0 +1,3 @@
+[submodule "JavaTelegramBot-API-Examples"]
+	path = JavaTelegramBot-API-Examples
+	url = git@github.com:zackpollard/JavaTelegramBot-API-Examples.git
